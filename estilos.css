@@ -95,6 +95,11 @@ button:hover {
     padding-bottom: 20px;
 }
 
+.produtos :hover{
+    transform: scale(105%);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
 .ImgVenda img {
     width: 100%;
     height: auto;
