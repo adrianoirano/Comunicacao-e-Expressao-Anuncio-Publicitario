@@ -45,13 +45,12 @@ main p {
 h3 {
     text-align: center;
     margin: 30px 0;
-    color: #222;
+    color: #2e0662ba;
 }
 
 h4 {
     text-align: left;
     width: 150px;
-    height: 70px;
     margin: 30px auto;
     padding:  10px 25px;
     background-color: #219150;
